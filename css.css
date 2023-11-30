@@ -1,0 +1,49 @@
+.two {
+    background-color: aquamarine;
+    font-family:fantasy;
+    color: cornflowerblue;
+}
+
+#one {
+    font-size: 44px;
+}
+
+.foot {
+    background-color: cadetblue;
+    font-family:fantasy;
+    color: burlywood;
+}
+
+#hi {
+    font-size: 43px;
+}
+
+#dog {
+    font-size: 47px;
+}
+
+#goalpost {
+    font-size: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    color: darkolivegreen;
+    font-size: 77px;
+}
+
+body {
+    background-color: beige;
+}
+
+#pic {
+    border: 9px solid cyan;
+}
+
+#audio {
+    text-align: center;
+    font-family: fantasy;
+    color: darkolivegreen;
+    font-size: 31px;
+}
